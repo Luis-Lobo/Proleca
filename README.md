@@ -1,6 +1,8 @@
 # proleca
 
-Protópico de doutorado em educação e tcc em computação
+Protópico de doutorado em educação e tcc em computação.
+
+Projeto para uso de pesquisa acadêmica e sem fins lucrativos.
 
 ## Getting Started
 
