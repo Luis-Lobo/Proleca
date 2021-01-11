@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233806697791",
+    "firebase_url": "https://proleca.firebaseio.com",
+    "project_id": "proleca",
+    "storage_bucket": "proleca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233806697791:android:cb378459227150b0b2af8a",
+        "android_client_info": {
+          "package_name": "proleca.proleca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233806697791-dc25n3vkvbl0ka6q8b4g612lhklhrkfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proleca.proleca",
+            "certificate_hash": "c00176eb431c6320e041afc6150c5fd47e1ee1be"
+          }
+        },
+        {
+          "client_id": "233806697791-o0a83c72qhomcq75gkhr6em0cg8r554u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcvyfS0bPCVBBsqDDSLYnZzsXXOIkBfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233806697791-o0a83c72qhomcq75gkhr6em0cg8r554u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
